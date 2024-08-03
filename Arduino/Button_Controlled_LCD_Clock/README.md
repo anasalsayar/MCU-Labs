@@ -57,4 +57,4 @@ Button Controlled LCD Clock is an Arduino-based project that displays the curren
 Watch a demo of the Button Controlled LCD Clock in action on [YouTube](https://youtube.com/shorts/hsKFmO9tWZM).
 
 ## Author
-**anasalsayar** - [MY GitHub Profile](https://github.com/anasalsayar)
+**anasalsayar** - [My GitHub Profile](https://github.com/anasalsayar)
